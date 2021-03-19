@@ -1,0 +1,20 @@
+{
+  "name": "grunt-sample",
+  "version": "1.0.0",
+  "description": "learn grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "sridharrajs",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.3.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
